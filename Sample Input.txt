@@ -1,0 +1,1163 @@
+20
+Arsenal
+AstonVilla
+Bournemouth
+Chelsea
+CrystalPalace
+Everton
+Leicester
+Liverpool
+ManC
+ManU
+Newcastle
+Norwich
+Southampton
+StokeCity
+Sunderland
+Swansea
+Tottenham
+Watford
+WestHam
+WBA
+
+380
+ManU
+1 0
+Tottenham
+Bournemouth
+0 1
+AstonVilla
+Everton
+2 2
+Watford
+Leicester
+4 2
+Sunderland
+Norwich
+1 3
+CrystalPalace
+Chelsea
+2 2
+Swansea
+Arsenal
+0 2
+WestHam
+Newcastle
+2 2
+Southampton
+StokeCity
+0 1
+Liverpool
+WBA
+0 3
+ManC
+AstonVilla
+0 1
+ManU
+Southampton
+0 3
+Everton
+Sunderland
+1 3
+Norwich
+Swansea
+2 0
+Newcastle
+Tottenham
+2 2
+StokeCity
+Watford
+0 0
+WBA
+WestHam
+1 2
+Leicester
+CrystalPalace
+1 2
+Arsenal
+ManC
+3 0
+Chelsea
+Liverpool
+1 0
+Bournemouth
+ManU
+0 0
+Newcastle
+CrystalPalace
+2 1
+AstonVilla
+Leicester
+1 1
+Tottenham
+Norwich
+1 1
+StokeCity
+Sunderland
+1 1
+Swansea
+WestHam
+3 4
+Bournemouth
+WBA
+2 3
+Chelsea
+Everton
+0 2
+ManC
+Watford
+0 0
+Southampton
+Arsenal
+0 0
+Liverpool
+Newcastle
+0 1
+Arsenal
+AstonVilla
+2 2
+Sunderland
+Bournemouth
+1 1
+Leicester
+Chelsea
+1 2
+CrystalPalace
+Liverpool
+0 3
+WestHam
+ManC
+2 0
+Watford
+StokeCity
+0 1
+WBA
+Tottenham
+0 0
+Everton
+Southampton
+3 0
+Norwich
+Swansea
+2 1
+ManU
+Everton
+3 1
+Chelsea
+Arsenal
+2 0
+StokeCity
+CrystalPalace
+0 1
+ManC
+Norwich
+3 1
+Bournemouth
+Watford
+1 0
+Swansea
+WBA
+0 0
+Southampton
+ManU
+3 1
+Liverpool
+Sunderland
+0 1
+Tottenham
+Leicester
+3 2
+AstonVilla
+WestHam
+2 0
+Newcastle
+Chelsea
+2 0
+Arsenal
+AstonVilla
+0 1
+WBA
+Bournemouth
+2 0
+Sunderland
+Newcastle
+1 2
+Watford
+StokeCity
+2 2
+Leicester
+Swansea
+0 0
+Everton
+ManC
+1 2
+WestHam
+Tottenham
+1 0
+CrystalPalace
+Liverpool
+1 1
+Norwich
+Southampton
+2 3
+ManU
+Tottenham
+4 1
+ManC
+Leicester
+2 5
+Arsenal
+Liverpool
+3 2
+AstonVilla
+ManU
+3 0
+Sunderland
+Southampton
+3 1
+Swansea
+StokeCity
+2 1
+Bournemouth
+WestHam
+2 2
+Norwich
+Newcastle
+2 2
+Chelsea
+Watford
+0 1
+CrystalPalace
+WBA
+2 3
+Everton
+CrystalPalace
+2 0
+WBA
+AstonVilla
+0 1
+StokeCity
+Bournemouth
+1 1
+Watford
+ManC
+6 1
+Newcastle
+Norwich
+1 2
+Leicester
+Sunderland
+2 2
+WestHam
+Chelsea
+1 3
+Southampton
+Everton
+1 1
+Liverpool
+Arsenal
+3 0
+ManU
+Swansea
+2 2
+Tottenham
+Tottenham
+0 0
+Liverpool
+Chelsea
+2 0
+AstonVilla
+CrystalPalace
+1 3
+WestHam
+Everton
+0 3
+ManU
+ManC
+5 1
+Bournemouth
+Southampton
+2 2
+Leicester
+WBA
+1 0
+Sunderland
+Watford
+0 3
+Arsenal
+Newcastle
+6 2
+Norwich
+Swansea
+0 1
+StokeCity
+AstonVilla
+1 2
+Swansea
+Leicester
+1 0
+CrystalPalace
+Norwich
+0 1
+WBA
+StokeCity
+0 2
+Watford
+WestHam
+2 1
+Chelsea
+Arsenal
+2 1
+Everton
+Sunderland
+3 0
+Newcastle
+Bournemouth
+1 5
+Tottenham
+ManU
+0 0
+ManC
+Liverpool
+1 1
+Southampton
+Chelsea
+1 3
+Liverpool
+CrystalPalace
+0 0
+ManU
+ManC
+2 1
+Norwich
+Newcastle
+0 0
+StokeCity
+Swansea
+0 3
+Arsenal
+Watford
+2 0
+WestHam
+WBA
+2 3
+Leicester
+Everton
+6 2
+Sunderland
+Southampton
+2 0
+Bournemouth
+Tottenham
+3 1
+AstonVilla
+Bournemouth
+0 1
+Newcastle
+Leicester
+2 1
+Watford
+ManU
+2 0
+WBA
+Norwich
+1 0
+Swansea
+Sunderland
+0 1
+Southampton
+WestHam
+1 1
+Everton
+StokeCity
+1 0
+Chelsea
+AstonVilla
+0 0
+ManC
+Arsenal
+1 1
+Tottenham
+Liverpool
+1 2
+CrystalPalace
+Watford
+1 2
+ManU
+Chelsea
+1 0
+Norwich
+Everton
+4 0
+AstonVilla
+Newcastle
+0 3
+Leicester
+Southampton
+0 1
+StokeCity
+Swansea
+2 2
+Bournemouth
+WBA
+2 1
+Arsenal
+ManC
+1 4
+Liverpool
+Tottenham
+4 1
+WestHam
+CrystalPalace
+0 1
+Sunderland
+AstonVilla
+2 3
+Watford
+Bournemouth
+3 3
+Everton
+CrystalPalace
+5 1
+Newcastle
+ManC
+3 1
+Southampton
+Sunderland
+2 0
+StokeCity
+Leicester
+1 1
+ManU
+Tottenham
+0 0
+Chelsea
+WestHam
+1 1
+WBA
+Liverpool
+1 0
+Swansea
+Norwich
+1 1
+Arsenal
+StokeCity
+2 0
+ManC
+Arsenal
+3 1
+Sunderland
+ManU
+0 0
+WestHam
+Southampton
+1 1
+AstonVilla
+Swansea
+0 3
+Leicester
+Watford
+2 0
+Norwich
+WBA
+1 1
+Tottenham
+Chelsea
+0 1
+Bournemouth
+Newcastle
+2 0
+Liverpool
+Everton
+1 1
+CrystalPalace
+Norwich
+1 1
+Everton
+CrystalPalace
+1 0
+Southampton
+ManC
+2 1
+Swansea
+Sunderland
+0 1
+Watford
+WestHam
+0 0
+StokeCity
+Bournemouth
+2 1
+ManU
+AstonVilla
+0 2
+Arsenal
+Liverpool
+2 2
+WBA
+Tottenham
+1 2
+Newcastle
+Leicester
+2 1
+Chelsea
+Chelsea
+3 1
+Sunderland
+Everton
+2 3
+Leicester
+ManU
+1 2
+Norwich
+Southampton
+0 2
+Tottenham
+StokeCity
+1 2
+CrystalPalace
+WBA
+1 2
+Bournemouth
+Newcastle
+1 1
+AstonVilla
+Watford
+3 0
+Liverpool
+Swansea
+0 0
+WestHam
+Arsenal
+2 1
+ManC
+StokeCity
+2 0
+ManU
+AstonVilla
+1 1
+WestHam
+Bournemouth
+0 0
+CrystalPalace
+Chelsea
+2 2
+Watford
+Liverpool
+1 0
+Leicester
+ManC
+4 1
+Sunderland
+Swansea
+1 0
+WBA
+Tottenham
+3 0
+Norwich
+Newcastle
+0 1
+Everton
+Southampton
+4 0
+Arsenal
+CrystalPalace
+0 0
+Swansea
+Everton
+3 4
+StokeCity
+Norwich
+2 0
+AstonVilla
+Watford
+1 2
+Tottenham
+WBA
+1 0
+Newcastle
+Arsenal
+2 0
+Bournemouth
+ManU
+0 0
+Chelsea
+WestHam
+2 1
+Southampton
+Leicester
+0 0
+ManC
+Sunderland
+0 1
+Liverpool
+WestHam
+2 0
+Liverpool
+Arsenal
+1 0
+Newcastle
+Leicester
+0 0
+Bournemouth
+ManU
+2 1
+Swansea
+Norwich
+1 0
+Southampton
+Sunderland
+3 1
+AstonVilla
+WBA
+2 1
+StokeCity
+Watford
+1 2
+ManC
+CrystalPalace
+0 3
+Chelsea
+Everton
+1 1
+Tottenham
+AstonVilla
+1 0
+CrystalPalace
+Bournemouth
+1 3
+WestHam
+Newcastle
+3 3
+ManU
+Chelsea
+2 2
+WBA
+ManC
+0 0
+Everton
+Southampton
+2 0
+Watford
+StokeCity
+3 1
+Norwich
+Swansea
+2 4
+Sunderland
+Liverpool
+3 3
+Arsenal
+Tottenham
+0 1
+Leicester
+Tottenham
+4 1
+Sunderland
+Bournemouth
+3 0
+Norwich
+Chelsea
+3 3
+Everton
+ManC
+4 0
+CrystalPalace
+Newcastle
+2 1
+WestHam
+Southampton
+3 0
+WBA
+AstonVilla
+1 1
+Leicester
+Liverpool
+0 1
+ManU
+StokeCity
+0 0
+Arsenal
+Swansea
+1 0
+Watford
+Norwich
+4 5
+Liverpool
+CrystalPalace
+1 3
+Tottenham
+Leicester
+3 0
+StokeCity
+ManU
+0 1
+Southampton
+Sunderland
+1 1
+Bournemouth
+Watford
+2 1
+Newcastle
+WBA
+0 0
+AstonVilla
+WestHam
+2 2
+ManC
+Everton
+1 2
+Swansea
+Arsenal
+0 1
+Chelsea
+Arsenal
+0 0
+Southampton
+Leicester
+2 0
+Liverpool
+Norwich
+0 3
+Tottenham
+Sunderland
+0 1
+ManC
+WestHam
+2 0
+AstonVilla
+CrystalPalace
+1 2
+Bournemouth
+ManU
+3 0
+StokeCity
+WBA
+1 1
+Swansea
+Everton
+3 0
+Newcastle
+Watford
+0 0
+Chelsea
+ManC
+1 3
+Leicester
+AstonVilla
+2 0
+Norwich
+Liverpool
+2 2
+Sunderland
+Newcastle
+1 0
+WBA
+StokeCity
+0 3
+Everton
+Swansea
+1 1
+CrystalPalace
+Tottenham
+1 0
+Watford
+Southampton
+1 0
+WestHam
+Bournemouth
+0 2
+Arsenal
+Chelsea
+1 1
+ManU
+Sunderland
+2 1
+ManU
+Bournemouth
+1 3
+StokeCity
+CrystalPalace
+1 2
+Watford
+Everton
+0 1
+WBA
+Norwich
+2 2
+WestHam
+Swansea
+0 1
+Southampton
+Chelsea
+5 1
+Newcastle
+Arsenal
+2 1
+Leicester
+AstonVilla
+0 6
+Liverpool
+ManC
+1 2
+Tottenham
+WestHam
+1 0
+Sunderland
+Leicester
+1 0
+Norwich
+Southampton
+1 2
+Chelsea
+StokeCity
+2 1
+AstonVilla
+Watford
+0 0
+Bournemouth
+WBA
+3 2
+CrystalPalace
+ManU
+3 2
+Arsenal
+Tottenham
+2 1
+Swansea
+AstonVilla
+1 3
+Everton
+Bournemouth
+2 0
+Southampton
+Leicester
+2 2
+WBA
+Norwich
+1 2
+Chelsea
+Sunderland
+2 2
+CrystalPalace
+Arsenal
+1 2
+Swansea
+StokeCity
+1 0
+Newcastle
+WestHam
+1 0
+Tottenham
+Liverpool
+3 0
+ManC
+ManU
+1 0
+Watford
+Tottenham
+2 2
+Arsenal
+Chelsea
+1 1
+StokeCity
+Everton
+2 3
+WestHam
+ManC
+4 0
+AstonVilla
+Newcastle
+1 3
+Bournemouth
+Southampton
+1 1
+Sunderland
+Swansea
+1 0
+Norwich
+Watford
+0 1
+Leicester
+CrystalPalace
+1 2
+Liverpool
+WBA
+1 0
+ManU
+Norwich
+0 0
+ManC
+Bournemouth
+3 2
+Swansea
+StokeCity
+1 2
+Southampton
+AstonVilla
+0 2
+Tottenham
+Leicester
+1 0
+Newcastle
+Everton
+0 2
+Arsenal
+Chelsea
+2 2
+WestHam
+CrystalPalace
+0 1
+Leicester
+Watford
+1 2
+StokeCity
+WBA
+0 1
+Norwich
+Swansea
+1 0
+AstonVilla
+Newcastle
+1 1
+Sunderland
+Southampton
+3 2
+Liverpool
+ManC
+0 1
+ManU
+Tottenham
+3 0
+Bournemouth
+AstonVilla
+0 4
+Chelsea
+Arsenal
+4 0
+Watford
+Bournemouth
+0 4
+ManC
+Norwich
+3 2
+Newcastle
+StokeCity
+2 2
+Swansea
+Sunderland
+0 0
+WBA
+WestHam
+2 2
+CrystalPalace
+Liverpool
+1 1
+Tottenham
+Leicester
+1 0
+Southampton
+ManU
+1 0
+Everton
+WestHam
+3 3
+Arsenal
+AstonVilla
+1 2
+Bournemouth
+CrystalPalace
+1 0
+Norwich
+Southampton
+3 1
+Newcastle
+Swansea
+1 0
+Chelsea
+Watford
+1 1
+Everton
+ManC
+2 1
+WBA
+Sunderland
+0 2
+Leicester
+Liverpool
+4 1
+StokeCity
+Tottenham
+3 0
+ManU
+CrystalPalace
+0 0
+Everton
+Norwich
+0 3
+Sunderland
+Everton
+1 1
+Southampton
+ManU
+1 0
+AstonVilla
+Newcastle
+3 0
+Swansea
+WBA
+0 1
+Watford
+Chelsea
+0 3
+ManC
+Bournemouth
+1 2
+Liverpool
+Leicester
+2 2
+WestHam
+Arsenal
+1 1
+CrystalPalace
+StokeCity
+0 4
+Tottenham
+Newcastle
+1 1
+ManC
+WestHam
+3 1
+Watford
+Liverpool
+4 0
+Everton
+ManU
+2 0
+CrystalPalace
+Arsenal
+2 0
+WBA
+ManC
+4 0
+StokeCity
+AstonVilla
+2 4
+Southampton
+Bournemouth
+1 4
+Chelsea
+Liverpool
+2 2
+Newcastle
+Sunderland
+0 0
+Arsenal
+Leicester
+4 0
+Swansea
+Tottenham
+1 1
+WBA
+Everton
+2 1
+Bournemouth
+Newcastle
+1 0
+CrystalPalace
+StokeCity
+1 1
+Sunderland
+Watford
+3 2
+AstonVilla
+WBA
+0 3
+WestHam
+Arsenal
+1 0
+Norwich
+Swansea
+3 1
+Liverpool
+ManU
+1 1
+Leicester
+Southampton
+4 2
+ManC
+Chelsea
+2 2
+Tottenham
+Norwich
+0 1
+ManU
+AstonVilla
+0 0
+Newcastle
+Bournemouth
+1 1
+WBA
+CrystalPalace
+2 1
+StokeCity
+Sunderland
+3 2
+Chelsea
+WestHam
+1 4
+Swansea
+Leicester
+3 1
+Everton
+Tottenham
+1 2
+Southampton
+Liverpool
+2 0
+Watford
+ManC
+2 2
+Arsenal
+WestHam
+3 2
+ManU
+Norwich
+4 2
+Watford
+Sunderland
+3 0
+Everton
+Liverpool
+1 1
+Chelsea
+Arsenal
+4 0
+AstonVilla
+Chelsea
+1 1
+Leicester
+Everton
+3 0
+Norwich
+Newcastle
+5 1
+Tottenham
+Southampton
+4 1
+CrystalPalace
+StokeCity
+2 1
+WestHam
+Swansea
+1 1
+ManC
+Watford
+2 2
+Sunderland
+WBA
+1 1
+Liverpool
+ManU
+3 1
+Bournemouth
